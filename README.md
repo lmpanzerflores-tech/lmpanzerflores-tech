@@ -15,7 +15,7 @@
 
 Sou estudante de **Engenharia de Software na Unipar** e tenho formação técnica em Informática pelo **IFPR**. Estou em busca da minha primeira oportunidade como desenvolvedor.
 
-Gosto de aprender de forma contínua, resolver problemas com lógica e trabalhar em equipe usando **Git, Scrum e Kanban**.
+Gosto de aprender de forma contínua, resolver problemas com lógica e trabalhar em equipe e contribuir da melhor forma para o desenvolvimento tanto coletivo como individual!
 
 - Cursando Bacharelado em Engenharia de Software (Unipar), desde 2026
 - Técnico em Informática integrado ao Ensino Médio (IFPR), concluído em 2025
@@ -101,30 +101,16 @@ Integração de APIs com ferramentas low-code e suporte técnico, com abertura e
 **Membro do Grêmio Estudantil | IFPR** (2025)
 Organização de eventos com centenas de participantes, mediação entre alunos e coordenação, e gestão de projetos coletivos.
 
----
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lmpanzerflores-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmpanzerflores-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lmpanzerflores-tech&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
----
 
 ## Cursos e certificações
 
-Montagem e Manutenção de Computadores, Informática Básica, Inglês, HTML e CSS, C, SQL e Python.
+Montagem e Manutenção de Computadores, Informática Básica, Linux, Inglês, HTML e CSS, C, SQL e Python.
 
 ---
 
 ## Filosofia
 
-> Aprender de forma contínua, entregar com clareza e evoluir junto com o time.
+> Foco no progresso, não na pressa - Felipe Ret.
 
 <p align="center">
   Aberto a oportunidades de estágio e vaga júnior, além de colaborações em projetos.
